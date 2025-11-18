@@ -1,2 +1,11 @@
-# Findit
-lost and found app for students of geu campus
+
+  # Campus Lost and Found App
+
+  This is a code bundle for Campus Lost and Found App. The original project is available at https://www.figma.com/design/wgLThj8txl696PuhG8Evua/Campus-Lost-and-Found-App.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
